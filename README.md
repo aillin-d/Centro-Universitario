@@ -12,3 +12,6 @@ Cadastrar Usuário \
 Consultar Cadastro \
 Atualizar Cadastro \
 Excluir Cadastro 
+
+# Diagrama de Caso de Uso:
+
