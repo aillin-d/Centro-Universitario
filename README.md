@@ -13,5 +13,6 @@ Consultar Cadastro \
 Atualizar Cadastro \
 Excluir Cadastro 
 
-# Diagrama de Caso de Uso:
+## Diagrama de Caso de Uso:
 
+![Diagrama de Casos de Uso]()
