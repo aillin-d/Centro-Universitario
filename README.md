@@ -15,7 +15,7 @@ Excluir Cadastro
 
 ## Diagrama de Caso de Uso:
 
-
+![Diagrama de Casos de Uso](https://github.com/aillin-d/Centro-Universitario/blob/main/Caso%20de%20Uso.JPG)
 
 ## Diagrama de Classes:
 ![Diagrama de Casos de Uso](https://github.com/aillin-d/Centro-Universitario/blob/main/image.png)
