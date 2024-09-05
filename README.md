@@ -5,10 +5,10 @@ Sobre: o aplicativo tem como objetivo o cadastro de diferentes tipos de usuário
 ## Usuários:
 Professor \
 Aluno \
-Fornecedor \
+Fornecedor 
 
 ## Funcionalidades:
 Cadastrar Usuário \
 Consultar Cadastro \
 Atualizar Cadastro \
-Excluir Cadastro \
+Excluir Cadastro 
