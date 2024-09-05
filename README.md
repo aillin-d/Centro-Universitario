@@ -1,2 +1,1 @@
-# Centro-Universitario
-Sistema de Cadastros
+# Sistema de Cadastro de um Centro Universitário
