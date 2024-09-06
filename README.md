@@ -33,19 +33,19 @@ Frame 01: início para login ou solicitar cadastro
 ![FRM 1 LOGIN](https://github.com/aillin-d/Centro-Universitario/blob/main/1%20FRM%20LOGIN.jpg)
 
 Frame 02: fluxo alternativo, solicitação de cadastro
-![FRM SOLICITACAO DE CADASTRO] (https://github.com/aillin-d/Centro-Universitario/blob/main/2%20FRM%20SOLICITA%C3%87%C3%83O%20DE%20CADASTRO.jpg)
+![FRM SOLICITACAO DE CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/2%20FRM%20SOLICITA%C3%87%C3%83O%20DE%20CADASTRO.jpg)
 
 Frame 03: solicitação de cadastro concluída com sucesso.
 ![FRM SOLICITACAO DE CADASTRO CONCLUIDA](https://github.com/aillin-d/Centro-Universitario/blob/main/3%20FRM%20SOLICITA%C3%87%C3%83O%20DE%20CADASTRO%20CONCLUIDA.jpg)
 
 Frame 04: tela principal, menu, após login do funcionário/perfil administrador
-FIGURA
+![FRM MENU](https://github.com/aillin-d/Centro-Universitario/blob/main/4%20FRM%20MENU.jpg)
 
 ## 2. Cadastrar pessoa física
 Interfaces relacionados ao caso de uso “Cadastrar usuário”, especificamente as etapas para cadastro de pessoas físicas. Inclui, ainda, o fluxo alternativo para os casos de falhas no cadastro. 
 
 Frame 05: formulário para cadastro de pessoa física
-![FRM MENU](https://github.com/aillin-d/Centro-Universitario/blob/main/4%20FRM%20MENU.jpg)
+![FRM PESSOA FÍSICA](https://github.com/aillin-d/Centro-Universitario/blob/main/4%20FRM%20MENU.jpg)
 
 Frame 5.1: fluxo alternativo, falha no carregamento de dados
 ![FRM FALHA NO CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/5.1%20FRM%20FALHA%20CADASTRO%20PF.jpg)
