@@ -85,7 +85,7 @@ Interfaces relacionadas as etapas do caso de uso “Atualizar cadastro”, inclu
 
 Frame 12: tela principal de busca de usuários pela classificação de pessoa física, jurídica, aluno, professor e fornecedor
 ![FRM ATUALIZAR CADASTROS](https://github.com/aillin-d/Centro-Universitario/blob/main/12%20FRM%20ATUALIZAR%20CADASTRO.jpg)
-![FRM ATUALIZAR CADASTROS]
+![FRM TELA EXEMPLO CADASTRO PARA ALTERAR](https://github.com/aillin-d/Centro-Universitario/blob/main/12.1%20TELA%20EXEMPLO%20ATUALIZAR.jpg)
 
 Frame 13: confirmação de cadastro atualizado
 ![FRM CONFIRMAÇÃO DE CADASTRO ATUALIZADO](https://github.com/aillin-d/Centro-Universitario/blob/main/13%20FRM%20CADASTRO%20ATUALIZADO.jpg)
