@@ -35,7 +35,7 @@ Frame 01: início para login ou solicitar cadastro
 Frame 02: fluxo alternativo, solicitação de cadastro
 ![FRM SOLICITACAO DE CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/2%20FRM%20SOLICITA%C3%87%C3%83O%20DE%20CADASTRO.jpg)
 
-Frame 03: solicitação de cadastro concluída com sucesso.
+Frame 03: solicitação de cadastro concluída com sucesso
 ![FRM SOLICITACAO DE CADASTRO CONCLUIDA](https://github.com/aillin-d/Centro-Universitario/blob/main/3%20FRM%20SOLICITA%C3%87%C3%83O%20DE%20CADASTRO%20CONCLUIDA.jpg)
 
 Frame 04: tela principal, menu, após login do funcionário/perfil administrador
@@ -83,7 +83,7 @@ Frame 11: formulário para cadastro de fornecedores
 ## 7. Atualizar cadastro
 Interfaces relacionadas as etapas do caso de uso “Atualizar cadastro”, incluindo o fluxo alternativo em casos de falha na atualização.
 
-Frame 12: tela principal de busca de usuários pela classificação de pessoa física, jurídica, aluno, professor e fornecedor. 
+Frame 12: tela principal de busca de usuários pela classificação de pessoa física, jurídica, aluno, professor e fornecedor
 ![FRM ATUALIZAR CADASTROS](https://github.com/aillin-d/Centro-Universitario/blob/main/12%20FRM%20ATUALIZAR%20CADASTRO.jpg)
 
 Frame 13: confirmação de cadastro atualizado
@@ -95,10 +95,10 @@ Frame 14: fluxo alternativo, falha na atualização
 ## 8. Consultar cadastro
 Interfaces relacionadas as etapas do caso de uso “Consultar cadastro”, incluindo os fluxos alternativos em casos de falha na pesquisa. 
 
-Frame 15: tela principal com o menu de busca pela classificação de pessoa física, jurídica, aluno, professor e fornecedor. 
+Frame 15: tela principal com o menu de busca pela classificação de pessoa física, jurídica, aluno, professor e fornecedor
 ![FRM CONSULTAR CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/15%20FRM%20CONSULTAR%20CADASTRO.jpg)
 
-Frame 16: formulário de busca de usuários 
+Frame 16: formulário de busca de usuários
 ![FRM FORMULÁRIO BUSCA DE USUÁRIOS](https://github.com/aillin-d/Centro-Universitario/blob/main/16%20FRM%20TELA%20DE%20CONSULTA.jpg)
 
 Frame 17: Exemplo de um cadastro localizado na busca
@@ -113,10 +113,10 @@ Frame 19: fluxo alternativo, falha na consulta, cadastro não encontrado
 ## 9. Excluir cadastro
 Interfaces relacionadas as etapas do caso de uso “Excluir cadastro”, incluindo os fluxos alternativos em casos de cancelamento pelo usuário.
 
-Frame 20: tela principal de exclusão com o menu pela classificação de pessoa física, jurídica, aluno, professor e fornecedor. 
+Frame 20: tela principal de exclusão com o menu pela classificação de pessoa física, jurídica, aluno, professor e fornecedor
 ![FRM EXCLUIR CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/20%20FRM%20EXCLUIR%20CADASTRO.jpg)
 
-Frame 21: formulário de busca de usuários 
+Frame 21: formulário de busca de usuários
 ![FRM FORMULÁRIO DE BUSCA DO CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/21%20FRM%20TELA%20EXCLUIR%20CADASTRO.jpg)
 
 Frame 22: fluxo alternativo, confirmação da exclusão com a opção de cancelar e voltar ao menu
