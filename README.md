@@ -103,7 +103,7 @@ Frame 16: formulário de busca de usuários
 ![FRM FORMULÁRIO BUSCA DE USUÁRIOS](https://github.com/aillin-d/Centro-Universitario/blob/main/16%20FRM%20TELA%20DE%20CONSULTA.jpg)
 
 Frame 17: Exemplo de um cadastro localizado na busca
-![FRM EXEMPLO DE CADASTRO LOCALIZADO](https://github.com/aillin-d/Centro-Universitario/blob/main/17%20FRM%20TELA%20EXEMPLO%20CONSULTA.jpg)
+![FRM EXEMPLO DE CADASTRO LOCALIZADO]
 
 Frame 18: fluxo alternativo, falha na consulta por problemas técnicos
 ![FRM FALHA NA CONSULTA POR PROBLEMAS TECNICOS](https://github.com/aillin-d/Centro-Universitario/blob/main/18%20FRM%20FALHA%20CONSULTA%20DE%20CADASTRO.jpg)
