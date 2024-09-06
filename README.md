@@ -45,7 +45,7 @@ Frame 04: tela principal, menu, após login do funcionário/perfil administrador
 Interfaces relacionados ao caso de uso “Cadastrar usuário”, especificamente as etapas para cadastro de pessoas físicas. Inclui, ainda, o fluxo alternativo para os casos de falhas no cadastro. 
 
 Frame 05: formulário para cadastro de pessoa física
-![FRM PESSOA FÍSICA](https://github.com/aillin-d/Centro-Universitario/blob/main/4%20FRM%20MENU.jpg)
+![FRM PESSOA FÍSICA](https://github.com/aillin-d/Centro-Universitario/blob/main/5.%20FRM%20CADASTRO%20PESSOA%20F%C3%8DSICA.jpg)
 
 Frame 5.1: fluxo alternativo, falha no carregamento de dados
 ![FRM FALHA NO CADASTRO](https://github.com/aillin-d/Centro-Universitario/blob/main/5.1%20FRM%20FALHA%20CADASTRO%20PF.jpg)
@@ -85,6 +85,7 @@ Interfaces relacionadas as etapas do caso de uso “Atualizar cadastro”, inclu
 
 Frame 12: tela principal de busca de usuários pela classificação de pessoa física, jurídica, aluno, professor e fornecedor
 ![FRM ATUALIZAR CADASTROS](https://github.com/aillin-d/Centro-Universitario/blob/main/12%20FRM%20ATUALIZAR%20CADASTRO.jpg)
+![FRM ATUALIZAR CADASTROS]
 
 Frame 13: confirmação de cadastro atualizado
 ![FRM CONFIRMAÇÃO DE CADASTRO ATUALIZADO](https://github.com/aillin-d/Centro-Universitario/blob/main/13%20FRM%20CADASTRO%20ATUALIZADO.jpg)
