@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+  border: none;
+}
+
+:root {
+  --white: #f5f5f5;
+  --blue: #21438d;
+  --yellow: #f6db6c;
+  --yellow-hover: #d1b545;
+  --grey: #636363;
+  --grey-hover: #494949;
+  --light-grey: #e0e0e0;
+  --light-blue: #abe6f5;
+  --green: #32cb67;
+  --green-hover: #259b4e;
+}
