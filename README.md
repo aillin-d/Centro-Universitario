@@ -3,9 +3,9 @@
 Sobre: o aplicativo tem como objetivo o cadastro de diferentes tipos de usuários relacionados a um centro universitário
 
 ## Usuários:
-Professor \
-Aluno \
-Fornecedor 
+Professor \ Pessoa física
+Aluno \ Pessoa física
+Fornecedor \ Pessoa jurídica
 
 ## Funcionalidades:
 Cadastrar Usuário \
